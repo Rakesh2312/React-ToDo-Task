@@ -108,7 +108,7 @@ function TodoModal({ type, modalOpen, setModalOpen, todo }) {
 
             <form className={styles.form} onSubmit={(e) => handleSubmit(e)}>
               <h1 className={styles.formTitle}>
-                {type === 'add' ? 'Add' : 'Update'} TODO
+                {type === 'add' ? 'Add' : 'Update'} Task
               </h1>
               <label htmlFor="title">
                 Title
