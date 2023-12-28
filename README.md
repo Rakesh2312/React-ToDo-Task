@@ -4,7 +4,7 @@ A complete task application using React.
 
 ## Project Description
 
-In the project, we will be creating a Complete Task Application. We will do all the CRUD operations. We will use `React.js` and to manage our states, we will use `Redux`.
+In the project, I have created a Task Application. I have done all the CRUD operations. I have use `React.js` and to manage our states, I have use `Redux`.
 
 ## Requirements
 
@@ -36,7 +36,7 @@ In the project, we will be creating a Complete Task Application. We will do all 
 
 ## Getting Started
 
-need to install all dependencies
+first, need to install all dependencies
 
 ```shell
 npm install
@@ -47,4 +47,3 @@ and after that start the dev server.
 ```shell
 npm start
 ```
-
