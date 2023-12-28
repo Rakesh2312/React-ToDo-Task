@@ -1,10 +1,10 @@
 ## React Task App.
 
-A complete task application with all features.
+A complete task application using React.
 
 ## Project Description
 
-In the project, we will be creating a Complete Todo Application. We will do all the CRUD operations. We will use `React.js` and to manage our states, we will use `Redux`.
+In the project, we will be creating a Complete Task Application. We will do all the CRUD operations. We will use `React.js` and to manage our states, we will use `Redux`.
 
 ## Requirements
 
@@ -36,7 +36,7 @@ In the project, we will be creating a Complete Todo Application. We will do all 
 
 ## Getting Started
 
-After getting the starter files, you need to go the file directory and run
+need to install all dependencies
 
 ```shell
 npm install
@@ -48,7 +48,3 @@ and after that start the dev server.
 npm start
 ```
 
-## Tools Used
-
-1. Favicon: [Flaticon.com](https://www.flaticon.com/)
-1. Code Editor: [VS Code](https://code.visualstudio.com/)
